@@ -1,9 +1,9 @@
 ### :chart_with_upwards_trend: Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=sieuwe1&show_icons=true&hide_border=true&theme=radical)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=develtechmon&show_icons=true&hide_border=true&theme=radical)
 <!---  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieuwe1&show_icons=true&hide_border=true&theme=radical&hide=CSS,JavaScript) -->
 
 ### 🏆 Github Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=sieuwe1&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
+![trophy](https://github-profile-trophy.vercel.app/?username=develtechmon1&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
 
 ### :video_camera: Last Video
 [![youtube video](https://img.youtube.com/vi/n0RhimFSIDw/0.jpg)](https://www.youtube.com/watch?v=n0RhimFSIDw)
