@@ -5,11 +5,12 @@
 ### 🏆 Github Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=develtechmon1&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
 
-### :video_camera: Last Video
+<!-- ### :video_camera: Last Video
 [![youtube video](https://img.youtube.com/vi/n0RhimFSIDw/0.jpg)](https://www.youtube.com/watch?v=n0RhimFSIDw)
-
+ -->
 ### 👨‍💻 About Me 
-I am a third year computer science student located in Eindhoven Netherlands. Besides school I work on my own on interesting projects in the Artifical Intelligence and Computer Vision domain. Particarly I am interested in autonomous systems like self driving vehicles. I truly believe in OpenSource code and that is why everything I make is Open Source and free to use by anyone! Interested in my self driving ATV or other projects? Then check out my github and Youtube channel!
+👋 Hi, I’m Luke
+👀 Electronic Engineer with 5+ years of experience in semiconductor field with a specialization in ASIC development and foundry service. Primarily focused on Analog Mixed Signal design. Possess strong passion in Artificial Intelligence, Machine Learning, Programming and Embedded Systems.
 
 ### :wrench: :hammer: Tools
 [![Arduino](https://img.shields.io/badge/-Arduino-green?style=flat&logo=arduino&link=https://github.com/sieuwe1)]
