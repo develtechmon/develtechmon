@@ -1,3 +1,7 @@
+### 👨‍💻 About Me 
+👋 Hi, I’m Luke
+👀 Electronic Engineer with 5+ years of experience in semiconductor field with a specialization in ASIC development and foundry service. Primarily focused on Analog Mixed Signal design. Possess strong passion in Artificial Intelligence, Machine Learning, Programming and Embedded Systems.
+
 ### :chart_with_upwards_trend: Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=develtechmon&show_icons=true&hide_border=true&theme=radical)
 <!---  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieuwe1&show_icons=true&hide_border=true&theme=radical&hide=CSS,JavaScript) -->
@@ -8,9 +12,6 @@
 <!-- ### :video_camera: Last Video
 [![youtube video](https://img.youtube.com/vi/n0RhimFSIDw/0.jpg)](https://www.youtube.com/watch?v=n0RhimFSIDw)
  -->
-### 👨‍💻 About Me 
-👋 Hi, I’m Luke
-👀 Electronic Engineer with 5+ years of experience in semiconductor field with a specialization in ASIC development and foundry service. Primarily focused on Analog Mixed Signal design. Possess strong passion in Artificial Intelligence, Machine Learning, Programming and Embedded Systems.
 
 ### 💻 Languages used by me the most 
 ![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=develtechmon&layout=compact&theme=radical&langs_count=6)
