@@ -12,6 +12,9 @@
 👋 Hi, I’m Luke
 👀 Electronic Engineer with 5+ years of experience in semiconductor field with a specialization in ASIC development and foundry service. Primarily focused on Analog Mixed Signal design. Possess strong passion in Artificial Intelligence, Machine Learning, Programming and Embedded Systems.
 
+### 💻 Languages used by me the most 
+![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=develtechmon&layout=compact&theme=radical&langs_count=6)
+
 ### :wrench: :hammer: Tools
 [![Arduino](https://img.shields.io/badge/-Arduino-green?style=flat&logo=arduino&link=https://github.com/sieuwe1)]
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/sieuwe1)]
